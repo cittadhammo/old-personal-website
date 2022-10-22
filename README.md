@@ -5,49 +5,63 @@ Cittadhammo Bhikkhu (Lancelot Moreau)
 
 ## Quick Links
 
-- [bitwarden.com](https://vault.bitwarden.com/#/login)
-- [gmail.com](https://accounts.google.com/)
-- [drive.google.com](https://drive.google.com/drive/my-drive)
-- [hotmail.com](https://outlook.live.com/)
-- [proton.me](https://account.proton.me/login?language=en)
-- [observablehq.com](https://observablehq.com/)
+- [bitwarden.com](https://vault.bitwarden.com/#/login) : Password Manager
+- [gmail.com](https://accounts.google.com/) : Email Provider
+- [drive.google.com](https://drive.google.com/drive/my-drive) : Cloud Storage
+- [hotmail.com](https://outlook.live.com/) : Email Provider
+- [proton.me](https://account.proton.me/login?language=en) : Email Provider
+- [observablehq.com](https://observablehq.com/) : Coding Online
+- [discord.com](https://discord.com/login) : Forum
+  -  [Dhamma en francais](https://discord.gg/U2T48jzCFZ) : French Dhamma Chat
+  -  [DhammaCharts](https://discord.gg/MkyKZh8ANy) : Dhamma Charts Chat
 
 ## Email Address
 
-- cittadhammo.bhikkhu@gmail.com
-- cittadhammo@pm.me
-- fractalcitta@gmail.com
-- lanmoreau@hotmail.com
-- dhammacharts@protonmail.com
+- [cittadhammo.bhikkhu@gmail.com](cittadhammo.bhikkhu@gmail.com) : Main Adderss
+- [cittadhammo@proton.me](cittadhammo@pm.me) : Secondary Address
+- [cittadhammo@pm.me](cittadhammo@pm.me) : Same Secondary Address
+- [fractalcitta@gmail.com](fractalcitta@gmail.com) : Anonymus Address
+- [lanmoreau@hotmail.com](lanmoreau@hotmail.com) : Old Address
+- [dhammacharts@protonmail.com](dhammacharts@protonmail.com) : Dedicated Address
+- [enseignement-jayasaro@protonmail.com](enseignement-jayasaro@protonmail.com) : Dedicated Address
+- [sanghadelaforet@gmail.com](sanghadelaforet@gmail.com) : Dedicated Address
+- [audiosutta@gmail.com](audiosutta@gmail.com) : Dedicated Address
 
 ## GitHub Accounts
 
-- cittadhammo
-- audiosutta
-- dhammacharts
+- [cittadhammo](https://github.com/cittadhammo) 
+- [AudioSutta](https://github.com/AudioSutta) Host the code for audiosutta.org
+- [DhammaCharts](https://github.com/DhammaCharts) Host the code for dhammacharts.org
 - [fractalcitta](https://github.com/fractalcitta)
-- [sanghadelaforet](https://github.com/SanghaDeLaForet)
-- [yyatiko](https://github.com/Yyatiko)
+- [SanghaDeLaForet](https://github.com/SanghaDeLaForet)
+- [Yyatiko](https://github.com/Yyatiko)
 
 ## Projects
  
 ### Websites
 
-- [Dhamma Charts](www.dhammacharts.org)
-- [Sangha de la Foret](www.sanghadelaforet.org)
-- [Audio Sutta](www.audiosutta.org)
-- [Feuilles Jaunes](www.ajahnjayasaro.fr)
-- [Feuilles Jaunes DE](www.ajahnjayasaro.de)
-- Quartz Dhamma Bible
-- Quatrz Personal Vault ?
-- [yatiko.c1.biz](http://yatiko.c1.biz/) Old Website
-- [wix website](https://guydelacombe8.wixsite.com/monsite) Another test
-- [Fractal Citta](https://fractalcitta.github.io/)
+- [Dhamma Charts](www.dhammacharts.org) : Collection of Dhamma Charts
+- [Sangha de la Foret](www.sanghadelaforet.org) : French Forest Sangha 
+- [Audio Sutta](www.audiosutta.org) : Listening to sutta in French
+- [Feuilles Jaunes](www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
+- [Feuilles Jaunes DE](www.ajahnjayasaro.de) : German Website for Ajahn Jayasaro
+- [Quartz Dhamma Bible](https://github.com/DhammaCharts/vault) : Repo used to log Dhamma data for Chart
+  - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
+- [Quatrz Personal Vault](https://github.com/DhammaCharts/vault)
+  - [Vault](https://www.dhammacharts.org/vault/) : Genereated Website with Quartz
+  - [Code Pages](https://www.dhammacharts.org/vault/code/code/) : Usefull code
+- [yatiko.c1.biz](http://yatiko.c1.biz/) : Old Website
+- [wix website](https://guydelacombe8.wixsite.com/monsite) : Another test
+- [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
 
 ### Books
 
-- Simple Pali Chanting Guide
+- [Simple Pali Chanting Guide](https://docs.google.com/document/d/1mYauJmbzakn-sKsixNkDrtxF8IX_6mIKOFgd5kquMyg/edit)
 - Model of Enlightement
+- 5 Blessures de l'âme
+- From Lancelot to Maya 2012-2020
+- From Lancelot to Maya 2020-2021
+- Direct Bhikkhu Patimokkha
 
 ### Translations
 
@@ -68,11 +82,6 @@ Cittadhammo Bhikkhu (Lancelot Moreau)
 - Algorithm for scaning Pali
 - [3D impressionist](http://fractal11.c1.biz/#/pr%C3%A9sentation) 3D test Presentation
 - plugin for dokuwiki plus template
-
-
-### Forum
-
-- discord.com dhamma en francais
 
 ### Charts
 
@@ -144,6 +153,6 @@ git push origin master
 - [overleaf.com](https://fr.overleaf.com/): Create LaTex document online
 - [observablehq.com](https://observablehq.com/) : Code JS and D3 online
 - [itools.com](http://itools.com/tool/google-translate-web-page-translator) : Translate a website
-- https://usefulcharts.com/
+- [usefulcharts.com]([url](https://usefulcharts.com/)) : Nice website
 
 
