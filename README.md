@@ -1,5 +1,7 @@
 # cittadhammo.github.io
-Personal Website - [Modify this page](https://github.com/cittadhammo/cittadhammo.github.io/edit/main/README.md)
+Cittadhammo Bhikkhu 
+cittadhammo.bhikkhu@gmail.com
+[Modify this page](https://github.com/cittadhammo/cittadhammo.github.io/edit/main/README.md)
 
 ## Quick Links
 
