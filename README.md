@@ -57,17 +57,18 @@ Cittadhammo Bhikkhu (Lancelot Moreau)
 ### Books
 
 - [Simple Pali Chanting Guide](https://docs.google.com/document/d/1mYauJmbzakn-sKsixNkDrtxF8IX_6mIKOFgd5kquMyg/edit)
-- Model of Enlightement
-- 5 Blessures de l'âme
+- [Model of Enlightement](https://docs.google.com/document/u/1/d/1-id2vcxF04vzoCO1e0RcS0pihL4FuLxywz0pWGSAUA8/edit)
+- [5 Blessures de l'âme](https://docs.google.com/document/d/1SJN8vcAqCcDcXkoqLsL6SeYfMFGsvuhB_m3WZBhVfYQ/edit)
 - From Lancelot to Maya 2012-2020
 - From Lancelot to Maya 2020-2021
-- Direct Bhikkhu Patimokkha
+- L'épine du Dhamma
+- [Direct Bhikkhu Patimokkha](https://docs.google.com/document/d/1i97q5mrYU0PaO6t0WNWwRRYgit_uYrT3B3YZdsPnbSw/edit)
 
 ### Translations
 
-- Serenity is the final word
-- Dhamma within reach
-- The Path to Nibbana
+- [Serenity is the final word](https://docs.google.com/document/d/1ZnEYnPPF4QOArHrQWokm2Y3Ow8ZSYVF3/edit?rtpof=true)
+- [Dhamma within reach](https://drive.google.com/drive/folders/16ZMTsbYAR4NP-kbrGg8niopB6nhDVA9E?usp=sharing)
+- [The Path to Nibbana](https://drive.google.com/drive/folders/17NI5TpUQjPdVgKOnFPeCq54LGhj0-9iF?usp=sharing)
 
 ### Art
 
@@ -75,6 +76,7 @@ Cittadhammo Bhikkhu (Lancelot Moreau)
 - 13 Satipathana
 - Transcendent Dep. Origination
 - 8-fold Path Stupa
+- 3 Powers
 
 
 ### Code
