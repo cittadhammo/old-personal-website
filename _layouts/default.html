@@ -1,60 +1,44 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>cittadhammo.github.io | Personal Website</title>
+<meta name="generator" content="Jekyll v3.9.2">
+<meta property="og:title" content="cittadhammo.github.io">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="Personal Website">
+<meta property="og:description" content="Personal Website">
+<link rel="canonical" href="https://cittadhammo.github.io/">
+<meta property="og:url" content="https://cittadhammo.github.io/">
+<meta property="og:site_name" content="cittadhammo.github.io">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="cittadhammo.github.io">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Personal Website","headline":"cittadhammo.github.io","name":"cittadhammo.github.io","url":"https://cittadhammo.github.io/"}</script>
+<!-- End Jekyll SEO tag -->
 
-    {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
-    {% else %}
-    <meta name="description" content="{{ site.description }}">
-    <meta property="og:description" content="{{ site.description }}" />
-    {% endif %}
-    <meta name="author" content="{{ site.name }}" />
+    <style class="anchorjs"></style><link rel="stylesheet" href="/assets/css/style.css?v=f50074ae6287060c60eb2e932529cd23b523582f">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
-    {% endif %}
+<!-- Setup Google Analytics -->
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
+    <div class="container-lg px-3 my-5 markdown-body">
       {{ content }}
-    </div>
-
-
-  </body>
+ </div>
+</body>
 </html>
