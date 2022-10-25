@@ -4,7 +4,6 @@ title: Home
 ---
 
  
-# cittadhammo.github.io
 Cittadhammo Bhikkhu (Lancelot Moreau)
 
 [Modify this page](https://github.com/cittadhammo/cittadhammo.github.io/edit/main/index.html)
