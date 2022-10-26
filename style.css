@@ -5221,7 +5221,6 @@ pre{
  .site-navigation a {
      display: block;
      padding: .25em 2em;
-     text-decoration: none;
 }
 .flex-container {
   display: flex;
