@@ -40,3 +40,12 @@ This site is build on GitHub
 ### Fractal
 
 - [Clifford Attractor](https://observablehq.com/@mbostock/clifford-attractor-iii?collection=@observablehq/webgl).
+
+### Coding
+
+- [aravindiyer.com](https://www.aravindiyer.com/posts/equal-height-image-gallery) : Flex layouts
+- [jakearchibald.github.io](https://jakearchibald.github.io/svgomg/) : Minifing SVGs
+- [overleaf.com](https://fr.overleaf.com/): Create LaTex document online
+- [observablehq.com](https://observablehq.com/) : Code JS and D3 online
+- [itools.com](http://itools.com/tool/google-translate-web-page-translator) : Translate a website
+- [usefulcharts.com]([url](https://usefulcharts.com/)) : Nice website
