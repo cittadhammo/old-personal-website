@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Home
+title: cittadhammo.github.io
 ---
-
  
 Cittadhammo Bhikkhu (Lancelot Moreau)
 
-[Modify this page](https://github.com/cittadhammo/cittadhammo.github.io/edit/main/index.html)
+[Modify this page](https://github.com/cittadhammo/cittadhammo.github.io/edit/main/index.md)
 
 ## Quick Links
 
