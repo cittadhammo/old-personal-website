@@ -5227,6 +5227,7 @@ pre{
   justify-content: space-between;
   align-items: baseline;
   border-bottom: 1px solid #eaecef;
+  margin-bottom: 1.5em;
 }
  .flex-container h1 {
   border-bottom: none;
