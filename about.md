@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+{{ page.url }}
+
 Some information about you!
 
 ### More Information
