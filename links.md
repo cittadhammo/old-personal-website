@@ -2,6 +2,7 @@
 layout: page
 title: Links
 ---
+{% link %}
 
 Some information about you!
 
