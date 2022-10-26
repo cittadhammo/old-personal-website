@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Cittadhammo Bhikkhu
+Cittadhammo Bhikkhu, buddhist monk in the UK.
 
 ## Email Address
 
