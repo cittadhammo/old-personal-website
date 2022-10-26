@@ -62,4 +62,10 @@
       {{ content }}
     </div>
   </body>
+  <script>
+    [...document.links].forEach(link => {
+  if (link.hostname != window.location.hostname)
+    link.target = '_blank'
+});
+  </script> 
 </html>
