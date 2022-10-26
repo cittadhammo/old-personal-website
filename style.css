@@ -5227,7 +5227,5 @@ pre{
   justify-content: space-between;
 }
  .flex-container > * {
-        flex: auto 1;
-     align-items: center;
+    align-items: center;
 }
-      }
