@@ -5,11 +5,11 @@ title: Projects
 
 ## Websites
 
-- [Dhamma Charts](www.dhammacharts.org) : Collection of Dhamma Charts
-- [Sangha de la Foret](www.sanghadelaforet.org) : French Forest Sangha 
-- [Audio Sutta](www.audiosutta.org) : Listening to sutta in French
-- [Feuilles Jaunes](www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
-- [Feuilles Jaunes DE](www.ajahnjayasaro.de) : German Website for Ajahn Jayasaro
+- [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
+- [Sangha de la Foret](http://www.sanghadelaforet.org) : French Forest Sangha 
+- [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
+- [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
+- [Feuilles Jaunes DE](http://www.ajahnjayasaro.de) : German Website for Ajahn Jayasaro
 - [Quartz Dhamma Bible](https://github.com/DhammaCharts/vault) : Repo used to log Dhamma data for Chart
   - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
 - [Quatrz Personal Vault](https://github.com/DhammaCharts/vault)
