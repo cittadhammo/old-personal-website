@@ -4,7 +4,7 @@ layout: default
 
 
 {% if page.url == "/" %}
-  {% assign path = "index.md" %}
+  {% assign path = "/index.md" %}
 {% else %}
  {% assign path = page.url | replace: "html", "md"  %}
 {% endif %}
