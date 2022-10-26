@@ -36,3 +36,7 @@ This site is build on GitHub
 - [kbroman.org](https://kbroman.org/github_tutorial/pages/init.html) : Another Git tutorial
 - [jekyllcodex.org](https://jekyllcodex.org/) : Doc with addons
 - [gettalong.org](https://kramdown.gettalong.org/quickref.html) : Kramdown Markup
+
+### Fractal
+
+- [Clifford Attractor](https://observablehq.com/@mbostock/clifford-attractor-iii?collection=@observablehq/webgl).
