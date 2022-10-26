@@ -5228,4 +5228,6 @@ pre{
 }
  .flex-container > * {
         flex: auto 1;
+     align-items: center;
+}
       }
