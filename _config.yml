@@ -1,0 +1,8 @@
+title: cittadhammo's website
+email: cittadhammo.bhikkhu@gmail.com
+description: Personal site. Not to be shared publicly
+baseurl: "" 
+url: ""
+
+plugins:
+  - jekyll-target-blank
