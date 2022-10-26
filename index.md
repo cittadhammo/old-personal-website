@@ -5,6 +5,8 @@ title: cittadhammo.github.io
  
 Cittadhammo Bhikkhu (Lancelot Moreau)
 
+{% link %}
+
 [Modify this page](https://github.com/cittadhammo/cittadhammo.github.io/edit/main/index.md)
 
 {{page.url}}
