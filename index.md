@@ -5,12 +5,6 @@ title: cittadhammo.github.io
  
 Cittadhammo Bhikkhu (Lancelot Moreau)
 
-[Modify this page](https://github.com/cittadhammo/cittadhammo.github.io/edit/main/index.md)
-
-{{page.url}}
-
-https://github.com/cittadhammo/cittadhammo.github.io/edit/main/index.md
-
 ## Quick Links
 
 - [bitwarden.com](https://vault.bitwarden.com/#/login) : Password Manager
