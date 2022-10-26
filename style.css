@@ -5226,3 +5226,6 @@ pre{
   display: flex;
   justify-content: space-between;
 }
+ .flex-container > * {
+        flex: auto 1;
+      }
