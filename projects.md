@@ -61,4 +61,4 @@ title: Projects
 
 ## 3D Printing
 
-- [Printers]((https://docs.google.com/document/d/1D5xxhqqoeXHjThn9ryQusZ4Ha8XDlrCnOrlBaLQUVmE/edit?usp=sharing)
+- [Printers](https://docs.google.com/document/d/1D5xxhqqoeXHjThn9ryQusZ4Ha8XDlrCnOrlBaLQUVmE/edit?usp=sharing)
