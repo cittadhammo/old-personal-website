@@ -59,6 +59,9 @@ title: Projects
 - Patimokkha relationship
 - 37 Wings to Awakenings
 - The Buddha's Mind
+- 31 Planes of Existance
+    - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Ol_zqnCYlKcm5olJX1-MFQKBx9NtAj-9Yg2i1uLMU9g/edit#gid=0)
+    - 
 
 ## 3D Printing
 
