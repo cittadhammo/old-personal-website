@@ -14,6 +14,7 @@ Buddhist monk in the UK.
 - [cittadhammo@pm.me](cittadhammo@pm.me) : Same Secondary Address
 - [fractalcitta@gmail.com](fractalcitta@gmail.com) : Anonymus Address
 - [lanmoreau@hotmail.com](lanmoreau@hotmail.com) : Old Address
+- [guy.delacombe@gmail.com](guy.delacombe@gmail.com) : Anonymus Address
 - [dhammacharts@protonmail.com](dhammacharts@protonmail.com) : Dedicated Address
 - [enseignement-jayasaro@protonmail.com](enseignement-jayasaro@protonmail.com) : Dedicated Address
 - [sanghadelaforet@gmail.com](sanghadelaforet@gmail.com) : Dedicated Address
