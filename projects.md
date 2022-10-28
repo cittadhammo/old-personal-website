@@ -61,7 +61,7 @@ title: Projects
 - The Buddha's Mind
 - 31 Planes of Existance
     - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Ol_zqnCYlKcm5olJX1-MFQKBx9NtAj-9Yg2i1uLMU9g/edit#gid=0)
-    - 
+    - [Chart](https://observablehq.com/d/7d76764d2f83a602)
 
 ## 3D Printing
 
