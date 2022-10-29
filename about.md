@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-Cittadhammo Bhikkhu, 
-
-Buddhist monk in the UK.
+Cittadhammo Bhikkhu — Buddhist monk in the UK — Find me on [Discord](https://discord.com/) Cittadhammo#3467
 
 ## Email Address
 
