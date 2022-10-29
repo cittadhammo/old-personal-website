@@ -3,7 +3,15 @@ layout: page
 title: About
 ---
 
-Cittadhammo Bhikkhu — Buddhist monk in the UK — Find me on [Discord](https://discord.com/) Cittadhammo#3467
+Cittadhammo Bhikkhu
+
+Buddhist monk in the UK
+
+## Chat Server
+
+- [Discord Profil](https://discord.com/) : Cittadhammo#3467
+   - [Dhamma en francais](https://discord.gg/U2T48jzCFZ) : French Dhamma Chat
+   - [DhammaCharts](https://discord.gg/MkyKZh8ANy) : Dhamma Charts Chat
 
 ## Email Address
 
