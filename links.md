@@ -50,3 +50,5 @@ This site is build on GitHub
 - [itools.com](http://itools.com/tool/google-translate-web-page-translator) : Translate a website
 - [usefulcharts.com]([url](https://usefulcharts.com/)) : Nice website
 - [Masonry Layout](https://masonry.desandro.com/) : Very nice website layout using js and css
+- [Photo Editor](https://pixlr.com/) : Online Photo Editor
+
