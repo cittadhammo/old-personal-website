@@ -5,95 +5,70 @@ title: code
 
 # Git
 
-~~~
-git pull origin
-git clone <url>
-git add .
-git commit
-git remote -v
-git remote add origin <url>
-git push origin master
+	git pull origin
+	git clone <url>
+	git add .
+	git commit
+	git remote -v
+	git remote add origin <url>
+	git push origin master
 
-git init
-git add .
-git commit -m "message"
-git push
-git restor .
-~~~
+	git init
+	git add .
+	git commit -m "message"
+	git push
+	git restor .
+
 # Jekyll
-~~~
-jekyll serve
-bundle exec jekyll serve
-jekyll build
 
-bundle install
-bundle exec jekyll serve
-~~~
+	jekyll serve
+	bundle exec jekyll serve
+	jekyll build
+
+	bundle install
+	bundle exec jekyll serve
+
 # Hugo
-~~~
-hugo-obsidian -input=content -output=assets/indices -index -root=.
-hugo server
-~~~
+
+	hugo-obsidian -input=content -output=assets/indices -index -root=.
+	hugo server
+
 
 # Mobile Decetction JS
 
-~~~
-const deviceType = () => {
-    const ua = navigator.userAgent;
-    if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
-        return "tablet";
-    }
-    else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
-        return "mobile";
-    }
-    return "desktop";
-};
-~~~
+	const deviceType = () => {
+	    const ua = navigator.userAgent;
+	    if (/(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i.test(ua)) {
+		return "tablet";
+	    }
+	    else if (/Mobile|Android|iP(hone|od)|IEMobile|BlackBerry|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/.test(ua)) {
+		return "mobile";
+	    }
+	    return "desktop";
+	};
 
 # Serve Node app on GitHub
 
 [Youtube Tutorial](https://www.youtube.com/watch?v=yo2bMGnIKE8)
-~~~
-export default {
-  base: "/suttapitaka-chart/",
-}
-~~~
+
+	export default {
+	  base: "/suttapitaka-chart/",
+	}
 
 in **deploy.sh**
-~~~
-#!/usr/bin/env sh
 
-npm run build
-git add dist -f
-git commit -m "deploy"
-git subtree push --prefix dist origin gh-page
-~~~
+	#!/usr/bin/env sh
 
-# Serve Node app on GitHub
+	npm run build
+	git add dist -f
+	git commit -m "deploy"
+	git subtree push --prefix dist origin gh-page
 
-[Youtube Tutorial](https://www.youtube.com/watch?v=yo2bMGnIKE8)
-~~~
-export default {
-  base: "/suttapitaka-chart/",
-}
-~~~
-
-in **deploy.sh**
-~~~
-#!/usr/bin/env sh
-
-npm run build
-git add dist -f
-git commit -m "deploy"
-git subtree push --prefix dist origin gh-page
-~~~
 # image-magick
 
-~~~
-magick suttapitaka.svg -resize 1000% suttapitaka1000.png
+	magick suttapitaka.svg -resize 1000% suttapitaka1000.png
 
-convert -density 1536 -background none -size 100x100 input.svg output-100.png
-~~~
+	convert -density 1536 -background none -size 100x100 input.svg output-100.png
 
 # VIPS
 
