@@ -29,6 +29,7 @@ title: Projects
 - [L'escargot du Dhamma](https://docs.google.com/document/d/1S4X4XgD4x14d1agZO1fGhiYttkikktNKL2emtU2-oMc/edit)
 - [L'épine du Dhamma](https://docs.google.com/document/d/1PwEY5SLbAnzpndfP6rU_1qgXe1VFapu6FbVcfLH7df8/edit?usp=sharing)
 - [Direct Bhikkhu Patimokkha](https://docs.google.com/document/d/1i97q5mrYU0PaO6t0WNWwRRYgit_uYrT3B3YZdsPnbSw/edit)
+- [I Wonder About You](https://docs.google.com/document/d/1Wk_SoBAMvHIRd6TIzo9AAtZSyKwHzVb3REHK5ZOtcCE/edit?usp=sharing)
 
 ## Translations
 
