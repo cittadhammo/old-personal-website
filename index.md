@@ -39,6 +39,9 @@ This is a personal website. Please do not share publicly.
 * Stilness Flowing, by Ajahn Jayasaro
 * The Four Noble Turth, by Ajahn Sumedho
 * On the Path, by Thanissaro Bhikkhu
+* With Each & Every Breath, by Thanissaro Bhikkhu
+* First Things First, by Thanissaro Bhikkhu
+* The Island, by Passano Bhikkhu & Amaro Bhikkhu
 
 
 
