@@ -61,5 +61,5 @@ This site is build on GitHub
 - [tipitaka.app](https://tipitaka.app/) : All Pali Tipitaka, commentary and sub-commentary
 - [digitalpalireader.online](https://www.digitalpalireader.online/_dprhtml/index.html)
 - [vpnry.github.io](https://vpnry.github.io/ptsped/) : A digital Version of The PTS Pali-English Dictionary
-- [https://simsapa.github.io/](vpnry.github.io) : Simsapa Dhamma Reader
+- [simsapa.github.io](vpnry.github.io) : Simsapa Dhamma Reader
 
