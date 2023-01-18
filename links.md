@@ -16,6 +16,8 @@ title: Links
 - [dhammasukha.org](http://www.dhammasukha.org) : Bhante Vimalaramsi's Webiste
 - [pathpress.org](https://pathpress.org/) : Path Press Publication
 - [fourthmessenger.org](https://www.fourthmessenger.org/) : The Fourth Messenger
+- [sujato.wordpress.com](https://sujato.wordpress.com/2012/10/03/my-books-at-santipada/) : books at Santipada by Bhante Sujato
+- [lokanta.github.io](https://lokanta.github.io/writings/) : recent writing by Bhante Sujato
 
 ### Dhamma en français
 
@@ -53,4 +55,11 @@ This site is build on GitHub
 - [Masonry Layout](https://masonry.desandro.com/) : Very nice website layout using js and css
 - [Photo Editor](https://pixlr.com/) : Online Photo Editor
 - [Jekyll Template](https://chrisbobbe.github.io/jekyll-theme-prologue/)
+
+### Others
+
+- [tipitaka.app](https://tipitaka.app/) : All Pali Tipitaka, commentary and sub-commentary
+- [digitalpalireader.online](https://www.digitalpalireader.online/_dprhtml/index.html)
+- [vpnry.github.io](https://vpnry.github.io/ptsped/) : A digital Version of The PTS Pali-English Dictionary
+- [https://simsapa.github.io/](vpnry.github.io) : Simsapa Dhamma Reader
 
