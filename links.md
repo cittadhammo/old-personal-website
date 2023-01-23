@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: Links 
 ---
 
 ### Dhamma in English
@@ -59,6 +59,7 @@ This site is build on GitHub
 ### Others
 
 - [tipitaka.app](https://tipitaka.app/) : All Pali Tipitaka, commentary and sub-commentary
+- [tipitaka.org](https://tipitaka.org/pdf/romn/) : All Tipitaka in PDF 
 - [digitalpalireader.online](https://www.digitalpalireader.online/_dprhtml/index.html)
 - [vpnry.github.io](https://vpnry.github.io/ptsped/) : A digital Version of The PTS Pali-English Dictionary
 - [simsapa.github.io](vpnry.github.io) : Simsapa Dhamma Reader
