@@ -43,6 +43,10 @@ This is a personal website. Please do not share publicly.
 * First Things First, by Thanissaro Bhikkhu
 * The Island, by Passano Bhikkhu & Amaro Bhikkhu
 
+## To Consider
+
+* The Shape of Ancient Thought
+
 
 
 
