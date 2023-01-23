@@ -46,6 +46,7 @@ This is a personal website. Please do not share publicly.
 ## To Consider
 
 * The Shape of Ancient Thought
+* King, Warrior, Magician, Lover
 
 
 
