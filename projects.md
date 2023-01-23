@@ -6,6 +6,7 @@ title: Projects
 ## Websites
 
 - [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
+  - To Do : Black Background on Chart Zoom & Pan + Redish Help window
 - [Sangha de la Foret](http://www.sanghadelaforet.org) : French Forest Sangha 
 - [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
@@ -51,6 +52,7 @@ title: Projects
 - Algorithm for scaning Pali
 - [3D impressionist](http://fractal11.c1.biz/#/pr%C3%A9sentation) 3D test Presentation
 - plugin for dokuwiki plus template
+- Adding keyboard for Kobo Koreader [KoboWriter](https://github.com/olup/kobowriter) & [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=340418)
 
 ## Charts
 
