@@ -7,6 +7,7 @@ title: Projects
 
 - [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
   - To Do : Black Background on Chart Zoom & Pan + Redish Help window
+  - Add Charts : Joe Rucker new one, Jahnas, Luanguages with Pali and Thai 
 - [Sangha de la Foret](http://www.sanghadelaforet.org) : French Forest Sangha 
 - [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
