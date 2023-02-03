@@ -70,3 +70,7 @@ title: Projects
 ## 3D Printing
 
 - [Printers](https://docs.google.com/document/d/1D5xxhqqoeXHjThn9ryQusZ4Ha8XDlrCnOrlBaLQUVmE/edit?usp=sharing)
+
+## AI Generated Art
+
+- [discourse.suttacentral.net](https://discourse.suttacentral.net/t/dhamma-art-by-ai-wow/26541/28): A tread on the topic
