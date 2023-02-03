@@ -61,8 +61,11 @@ title: Projects
 - 4 Noble Truths
 - Patimokkha 227
 - Patimokkha relationship
+    - Change gap 
 - 37 Wings to Awakenings
+    - Change colors
 - The Buddha's Mind
+    - Correct spelling, colors, and enrich 2 Noble Truth
 - 31 Planes of Existance
     - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Ol_zqnCYlKcm5olJX1-MFQKBx9NtAj-9Yg2i1uLMU9g/edit#gid=0)
     - [Chart](https://observablehq.com/d/7d76764d2f83a602)
