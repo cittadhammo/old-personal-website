@@ -12,7 +12,7 @@ title: Projects
 - [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
 - [Feuilles Jaunes DE](http://www.ajahnjayasaro.de) : German Website for Ajahn Jayasaro
-- [Quartz Dhamma Bible](https://github.com/DhammaCharts/vault) : Repo used to log Dhamma data for Chart
+- [Quartz Dhamma Bible](https://github.com/DhammaCharts/dhammas/) : Repo used to log Dhamma data for Chart
   - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
 - [Quatrz Personal Vault](https://github.com/DhammaCharts/vault)
   - [Vault](https://www.dhammacharts.org/vault/) : Genereated Website with Quartz
