@@ -14,6 +14,7 @@ title: Projects
 - [Feuilles Jaunes DE](http://www.ajahnjayasaro.de) : German Website for Ajahn Jayasaro
 - [Quartz Dhamma Bible](https://github.com/DhammaCharts/dhammas/) : Repo used to log Dhamma data for Chart
   - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
+  - [Dhamma Vault 2](https://www.dhammacharts.org/quartz/): another generated website from [repo](https://github.com/DhammaCharts/quartz/tree/hugo)
 - [Quatrz Personal Vault](https://github.com/DhammaCharts/vault)
   - [Vault](https://www.dhammacharts.org/vault/) : Genereated Website with Quartz
   - [Code Pages](https://www.dhammacharts.org/vault/code/code/) : Usefull code
