@@ -43,11 +43,21 @@ This is a personal website. Please do not share publicly.
 * First Things First, by Thanissaro Bhikkhu
 * The Island, by Passano Bhikkhu & Amaro Bhikkhu
 
-## To Consider
+### To Consider
 
 * The Shape of Ancient Thought
 * King, Warrior, Magician, Lover
 
+## Art
+
+* Ba Khine (U Ba Kyi) : Art & Book "Illustrated History of Buddhsim"
+* Chakrabhand Posayakrit
+* Solias Mendis : Murals of Kelaniya
+* Jean Giraud (Mœbius)
+* Enki Billal
+* studio ghibli
+* Dall-E
+* Peace Pagoda
 
 
 
