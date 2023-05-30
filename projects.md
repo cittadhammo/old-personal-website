@@ -22,6 +22,7 @@ title: Projects
 - [yatiko.c1.biz](http://yatiko.c1.biz/) : Old Website
 - [wix website](https://guydelacombe8.wixsite.com/monsite) : Another test
 - [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
+- [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
 
 ## Writings
 
