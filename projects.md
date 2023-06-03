@@ -18,8 +18,14 @@ title: Projects
   - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
   - [Dhamma Vault 2](https://www.dhammacharts.org/quartz/): another generated website from [repo](https://github.com/DhammaCharts/quartz/tree/holy-grail) 
 - [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
-  - Test with main projects:
+  - Small bio plus contact 
+  - Main projects
     - dhammacharts.org
+    - audiosutta.org
+    - sanghadelaforet.org
+    - palichanting.org
+    - enlightenment.org
+    - dhammabible.org
 - [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
 
 ### Secondary
@@ -36,7 +42,7 @@ title: Projects
 ## Writings
 
 - [Simple Pali Chanting Guide](https://docs.google.com/document/d/1mYauJmbzakn-sKsixNkDrtxF8IX_6mIKOFgd5kquMyg/edit)
-- [The Model of Enlightement](https://docs.google.com/document/u/1/d/1-id2vcxF04vzoCO1e0RcS0pihL4FuLxywz0pWGSAUA8/edit)
+- [The Model of Enlightenment](https://docs.google.com/document/u/1/d/1-id2vcxF04vzoCO1e0RcS0pihL4FuLxywz0pWGSAUA8/edit)
 - [Direct Bhikkhu Patimokkha](https://docs.google.com/document/d/1i97q5mrYU0PaO6t0WNWwRRYgit_uYrT3B3YZdsPnbSw/edit)
 - [5 Blessures de l'âme](https://docs.google.com/document/d/1SJN8vcAqCcDcXkoqLsL6SeYfMFGsvuhB_m3WZBhVfYQ/edit)
 - [FLTM1](https://docs.google.com/document/d/1Lv_wOVXuFGWo6928VsauR0jznBYFfNH0zJw39nW9nrI/edit?usp=sharing)
