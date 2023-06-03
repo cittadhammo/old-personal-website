@@ -5,24 +5,28 @@ title: Projects
 
 ## Websites
 
+### Primary
 - [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
   - To Do : Black Background on Chart Zoom & Pan + Redish Help window
   - Add Charts : Joe Rucker new one, Jahnas, Luanguages with Pali and Thai 
 - [Sangha de la Foret](http://www.sanghadelaforet.org) : French Forest Sangha 
 - [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
-- [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
-- [Feuilles Jaunes DE](http://www.ajahnjayasaro.de) : German Website for Ajahn Jayasaro
 - [Quartz Dhamma Bible](https://github.com/DhammaCharts/dhammas/) : Repo used to log Dhamma data for Chart
   - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
   - [Dhamma Vault 2](https://www.dhammacharts.org/quartz/): another generated website from [repo](https://github.com/DhammaCharts/quartz/tree/holy-grail) 
+ - [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
+- [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
+
+### Secondary
+- [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
+- [Feuilles Jaunes DE](http://www.ajahnjayasaro.de) : German Website for Ajahn Jayasaro
 - [Quatrz Personal Vault](https://github.com/DhammaCharts/vault)
   - [Vault](https://www.dhammacharts.org/vault/) : Genereated Website with Quartz
   - [Code Pages](https://www.dhammacharts.org/vault/code/code/) : Usefull code
 - [Quartz - New Layout](https://github.com/DhammaCharts/quartz) : Holy Grail Testing
 - [yatiko.c1.biz](http://yatiko.c1.biz/) : Old Website
 - [wix website](https://guydelacombe8.wixsite.com/monsite) : Another test
-- [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
-- [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
+
 
 ## Writings
 
@@ -42,6 +46,12 @@ title: Projects
 - [Dhamma within reach](https://drive.google.com/drive/folders/16ZMTsbYAR4NP-kbrGg8niopB6nhDVA9E?usp=sharing)
 - [The Path to Nibbana](https://drive.google.com/drive/folders/17NI5TpUQjPdVgKOnFPeCq54LGhj0-9iF?usp=sharing)
 
+## Translations
+
+- Proof-reading Ajahn Sucitto's work
+  - Les Sankhara 
+  - Clarte et espace
+  - 
 ## Art
 
 - Jhana Illustration for Jhana book
@@ -49,7 +59,6 @@ title: Projects
 - Transcendent Dep. Origination
 - 8-fold Path Stupa
 - 3 Powers
-
 
 ## Code
 
