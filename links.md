@@ -10,7 +10,11 @@ title: Links
 - [youtube.com](https://www.youtube.com/channel/UCsgmmAelfZ2kfXZ08xlHpDw) : Amaravati Monastery Chanel
 - [dhammatalks.org](http://www.dhammatalks.org) : Ajahn Thanissaro's Website
 - [forestsangha.org](http://www.forestsangha.org) : Ajahn Chah lineage
-- [suttacentral.org](http://www.suttacentral.org) : Sutta translations
+- [suttacentral.net](http://www.suttacentral.net) : Sutta translations
+- [discourse.suttacentral.net](https://discourse.suttacentral.net/) : EBT Forum
+- [readingfaithfully.org](https://readingfaithfully.org/) : Contemplative Sutta Reading
+- [buddhistuniversity.net](https://buddhistuniversity.net/) : A lot of things
+- https://www.digitalpalireader.online/_dprhtml/index.html
 - [paliaudio.com](http://www.paliaudio.com) : Sutta audio recordings
 - [dhamma.org](http://www.dhamma.org) : Vipassana tradition
 - [dhammasukha.org](http://www.dhammasukha.org) : Bhante Vimalaramsi's Webiste
@@ -18,6 +22,21 @@ title: Links
 - [fourthmessenger.org](https://www.fourthmessenger.org/) : The Fourth Messenger
 - [sujato.wordpress.com](https://sujato.wordpress.com/2012/10/03/my-books-at-santipada/) : books at Santipada by Bhante Sujato
 - [lokanta.github.io](https://lokanta.github.io/writings/) : recent writing by Bhante Sujato
+- https://www.accesstoinsight.org/index.html
+- https://www.ancient-buddhist-texts.net/
+- https://suttafriends.org/
+- https://www.clearmountainmonastery.org/
+- https://buddhistinsights.org/
+- https://sasanarakkha.org/
+- https://vbgnet.org/contact/
+- https://dharmaaudiobooks.com/
+- https://www.buddhanet.net/
+- [Pali Commentaries in english](https://archive.org/details/PaliCommentariesCollection/00%20Vinaya%20Commentary%2C%20Samantapasadika%2C%20Shan-Chien-P%27i-P%27o-Sha%2C%20Sanghabhadra%27s%20Chinese%20Samantapasadika%20%28tr.%20by%20Prof.%20P.V.%20Bapat%20and%20Prof.%20A.%20Hirakawa%29%20%28652p%29/page/472/mode/2up)
+
+more : 
+- https://www.reddit.com/r/theravada/wiki/index/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+- https://www.dhammawheel.com/viewtopic.php?f=13&t=3012
+- https://www.reddit.com/r/theravada/comments/y0h1n2/theravada_resources/
 
 ### Dhamma en français
 
@@ -63,4 +82,9 @@ This site is build on GitHub
 - [digitalpalireader.online](https://www.digitalpalireader.online/_dprhtml/index.html)
 - [vpnry.github.io](https://vpnry.github.io/ptsped/) : A digital Version of The PTS Pali-English Dictionary
 - [simsapa.github.io](vpnry.github.io) : Simsapa Dhamma Reader
+
+### Chanting
+
+- https://www.charlottebuddhistvihara.org/audio-talks-and-chants/
+- https://bhanterahula.blogspot.com/p/chanting.html
 
