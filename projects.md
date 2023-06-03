@@ -10,11 +10,16 @@ title: Projects
   - To Do : Black Background on Chart Zoom & Pan + Redish Help window
   - Add Charts : Joe Rucker new one, Jahnas, Luanguages with Pali and Thai 
 - [Sangha de la Foret](http://www.sanghadelaforet.org) : French Forest Sangha 
+  - Contact Philippe
+  - Marketing  
 - [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
+  - Marketing 
 - [Quartz Dhamma Bible](https://github.com/DhammaCharts/dhammas/) : Repo used to log Dhamma data for Chart
   - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
   - [Dhamma Vault 2](https://www.dhammacharts.org/quartz/): another generated website from [repo](https://github.com/DhammaCharts/quartz/tree/holy-grail) 
- - [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
+- [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
+  - Test with main projects:
+    - dhammacharts.org
 - [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
 
 ### Secondary
@@ -46,9 +51,9 @@ title: Projects
 - [Dhamma within reach](https://drive.google.com/drive/folders/16ZMTsbYAR4NP-kbrGg8niopB6nhDVA9E?usp=sharing)
 - [The Path to Nibbana](https://drive.google.com/drive/folders/17NI5TpUQjPdVgKOnFPeCq54LGhj0-9iF?usp=sharing)
 
-## Translations
+## Proof-reading
 
-- Proof-reading Ajahn Sucitto's work
+- Ajahn Sucitto's work
   - Les Sankhara 
   - Clarte et espace
   - 
