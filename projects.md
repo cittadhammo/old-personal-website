@@ -26,7 +26,9 @@ title: Projects
     - palichanting.org
     - enlightenment.org
     - dhammabible.org
+    - monksconstitution.org
 - [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
+- Monastic Constitution
 
 ### Secondary
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
