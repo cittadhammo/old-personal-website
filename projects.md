@@ -64,7 +64,8 @@ title: Projects
 - Ajahn Sucitto's work
   - Les Sankhara 
   - Clarte et espace
-  - 
+  - check other books not on forestsangha.org
+
 ## Art
 
 - Jhana Illustration for Jhana book
