@@ -82,6 +82,7 @@ This site is build on GitHub
 - [digitalpalireader.online](https://www.digitalpalireader.online/_dprhtml/index.html)
 - [vpnry.github.io](https://vpnry.github.io/ptsped/) : A digital Version of The PTS Pali-English Dictionary
 - [simsapa.github.io](vpnry.github.io) : Simsapa Dhamma Reader
+- https://euangoddard.github.io/clipboard2markdown/
 
 ### Chanting
 
