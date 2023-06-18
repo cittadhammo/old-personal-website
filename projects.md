@@ -99,6 +99,10 @@ title: Projects
 ## 3D Printing
 
 - [Printers](https://docs.google.com/document/d/1D5xxhqqoeXHjThn9ryQusZ4Ha8XDlrCnOrlBaLQUVmE/edit?usp=sharing)
+- Pull Struder
+  - https://www.thingiverse.com/thing:4969225
+  - https://www.thingiverse.com/thing:5200645
+  - https://www.youtube.com/watch?v=Ik4b_BDYOTs
 
 ## AI Generated Art
 
