@@ -107,6 +107,7 @@ title: Projects
   - [Hack a Day](https://hackaday.io/project/185196-pullstruder-from-plastic-bottle-to-pet-filament)
   - [pet bottle cutter](https://www.printables.com/fr/model/506101-pet-bottle-cutter-with-bearings)
   - Needs metal Hot end
+  - [Nozel for compressor](https://www.thingiverse.com/thing:1554940)
 
 ## AI Generated Art
 
