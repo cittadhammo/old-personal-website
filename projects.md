@@ -100,9 +100,13 @@ title: Projects
 
 - [Printers](https://docs.google.com/document/d/1D5xxhqqoeXHjThn9ryQusZ4Ha8XDlrCnOrlBaLQUVmE/edit?usp=sharing)
 - Pull Struder
-  - https://www.thingiverse.com/thing:4969225
-  - https://www.thingiverse.com/thing:5200645
-  - https://www.youtube.com/watch?v=Ik4b_BDYOTs
+  - [main machine](https://www.thingiverse.com/thing:5200645)  
+  - [https://www.thingiverse.com/thing:4969225](https://www.thingiverse.com/thing:4969225)
+  - [https://www.thingiverse.com/thing:5200645](https://www.thingiverse.com/thing:5200645)
+  - [https://www.youtube.com/watch?v=Ik4b_BDYOTs](https://www.youtube.com/watch?v=Ik4b_BDYOTs)
+  - [Hack a Day](https://hackaday.io/project/185196-pullstruder-from-plastic-bottle-to-pet-filament)
+  - [pet bottle cutter](https://www.printables.com/fr/model/506101-pet-bottle-cutter-with-bearings)
+  - Needs metal Hot end
 
 ## AI Generated Art
 
