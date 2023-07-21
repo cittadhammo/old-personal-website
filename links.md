@@ -89,3 +89,8 @@ This site is build on GitHub
 - https://www.charlottebuddhistvihara.org/audio-talks-and-chants/
 - https://bhanterahula.blogspot.com/p/chanting.html
 
+### Poster
+
+- [all size](https://www.bannerworld.co.uk/product/a0-satin-poster-printing/)
+- [Fixing in UK](https://www.hfe-signs.co.uk/accessories-fixings.php)
+
