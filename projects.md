@@ -39,6 +39,7 @@ title: Projects
 - [Quartz - New Layout](https://github.com/DhammaCharts/quartz) : Holy Grail Testing
 - [yatiko.c1.biz](http://yatiko.c1.biz/) : Old Website
 - [wix website](https://guydelacombe8.wixsite.com/monsite) : Another test
+- [Buddhist Dictionary Manual of Buddhist Terms and Doctrines, by NYANATILOKA](https://fractalcitta.github.io/Buddhist-Dictionary/dic_idx.html)
 
 
 ## Writings
