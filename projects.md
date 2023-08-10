@@ -80,7 +80,7 @@ title: Projects
 - Algorithm for scaning Pali
 - [3D impressionist](http://fractal11.c1.biz/#/pr%C3%A9sentation) 3D test Presentation
 - plugin for dokuwiki plus template
-- Adding keyboard for Kobo Koreader [KoboWriter](https://github.com/olup/kobowriter) & [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=340418)
+- Adding keyboard for Kobo Koreader [KoboWriter](https://github.com/olup/kobowriter) & [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=340418), another [link](http://www.50k-or-bust.com/Kobo%20XCSoar/Kobo%20XCSoar%20USB%20OTG%20Dongle%20Option%2001.pdf)
 
 ## Charts
 
