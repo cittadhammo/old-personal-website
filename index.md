@@ -59,8 +59,7 @@ This is a personal website. Please do not share publicly.
 * Dall-E
 * Peace Pagoda
 * Chanting : Kiribathgoda Gnanananda Thero
-* Sri lankan tradition : [Galduwa Forest Tradition](https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha)https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha
-* 
+* Sri lankan tradition : [Galduwa Forest Tradition](https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha)
 
 
 
