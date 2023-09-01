@@ -6,38 +6,39 @@ title: Projects
 ## Websites
 
 ### Primary
-- [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
+- dhammacharts.org
+  - [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
   - To Do : Black Background on Chart Zoom & Pan + Redish Help window
   - Add Charts : Joe Rucker new one, Jahnas, Luanguages with Pali and Thai 
-- [Sangha de la Foret](http://www.sanghadelaforet.org) : French Forest Sangha 
+- sanghadelaforet.org
+  - [Sangha de la Foret](http://www.sanghadelaforet.org) : French Forest Sangha 
   - Contact Philippe
-  - Marketing  
-- [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
-  - Marketing 
-- [Quartz Dhamma Bible](https://github.com/DhammaCharts/dhammas/) : Repo used to log Dhamma data for Chart
+  - Marketing
+  - Translation
+- audiosutta.org
+  - [Audio Sutta](http://www.audiosutta.org) : Listening to sutta in French
+  - Marketing
+- dhammabible.org
+  - [Quartz Dhamma Bible](https://github.com/DhammaCharts/dhammas/) : Repo used to log Dhamma data for Chart
   - [Dhamma Vault](https://www.dhammacharts.org/dhammas/) : Genereated Website with Quartz
   - [Dhamma Vault 2](https://www.dhammacharts.org/quartz/): another generated website from [repo](https://github.com/DhammaCharts/quartz/tree/holy-grail) 
   - [Alternative to Quartz](https://github.com/jobindjohn/obsidian-publish-mkdocs)
-- [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
-  - Small bio plus contact 
-  - Main projects
-    - dhammacharts.org
-    - audiosutta.org
-    - sanghadelaforet.org
-    - palichanting.org
-    - enlightenment.org
-    - dhammabible.org
-    - monksconstitution.org
-- [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
-- Monastic Constitution
-- perso wiki
-  - [github action](https://github.com/marketplace/actions/wiki-page-creator-action)
-  - [Just the Docs](https://github.com/just-the-docs/just-the-docs/tree/main)
-  - [Maxime way](https://digital-garden-jekyll-template.netlify.app/)
-  - [Siyuan](https://github.com/siyuan-note/siyuan)
-  - [Quartz](https://github.com/jackyzha0/quartz)
-  - [MKDOCS](https://github.com/jobindjohn/obsidian-publish-mkdocs)
-  - [Jekyll garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
+- cittadhammo.org
+  - [Fractal Citta](https://fractalcitta.github.io/) : Blog Test
+  - Small bio plus contact
+  - Wiki Perso
+    - [github action](https://github.com/marketplace/actions/wiki-page-creator-action)
+    - [Just the Docs](https://github.com/just-the-docs/just-the-docs/tree/main)
+    - [Maxime way](https://digital-garden-jekyll-template.netlify.app/)
+    - [Siyuan](https://github.com/siyuan-note/siyuan)
+    - [Quartz](https://github.com/jackyzha0/quartz)
+    - [MKDOCS](https://github.com/jobindjohn/obsidian-publish-mkdocs)
+    - [Jekyll garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
+- palichanting.org
+  - [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
+- vinaya.io
+  - Monastic Constitution
+- enlightenment.io
 
 
 ### Secondary
@@ -69,6 +70,7 @@ title: Projects
 - [Serenity is the final word](https://docs.google.com/document/d/1ZnEYnPPF4QOArHrQWokm2Y3Ow8ZSYVF3/edit?rtpof=true)
 - [Dhamma within reach](https://drive.google.com/drive/folders/16ZMTsbYAR4NP-kbrGg8niopB6nhDVA9E?usp=sharing)
 - [The Path to Nibbana](https://drive.google.com/drive/folders/17NI5TpUQjPdVgKOnFPeCq54LGhj0-9iF?usp=sharing)
+- The way it is 
 
 ## Proof-reading
 
