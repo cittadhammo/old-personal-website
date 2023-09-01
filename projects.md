@@ -31,6 +31,7 @@ title: Projects
 - [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
 - Monastic Constitution
 - perso wiki https://github.com/marketplace/actions/wiki-page-creator-action
+- https://github.com/just-the-docs/just-the-docs/tree/main
 
 ### Secondary
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
