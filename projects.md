@@ -35,6 +35,10 @@ title: Projects
   - [Just the Docs](https://github.com/just-the-docs/just-the-docs/tree/main)
   - [Maxime way](https://digital-garden-jekyll-template.netlify.app/)
   - [Siyuan](https://github.com/siyuan-note/siyuan)
+  - [Quartz](https://github.com/jackyzha0/quartz)
+  - [MKDOCS](https://github.com/jobindjohn/obsidian-publish-mkdocs)
+  - [Jekyll garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
+
 
 ### Secondary
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
