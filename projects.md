@@ -34,6 +34,7 @@ title: Projects
   - [github action](https://github.com/marketplace/actions/wiki-page-creator-action)
   - [Just the Docs](https://github.com/just-the-docs/just-the-docs/tree/main)
   - [Maxime way](https://digital-garden-jekyll-template.netlify.app/)
+  - [Siyuan](https://github.com/siyuan-note/siyuan)
 
 ### Secondary
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
