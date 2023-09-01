@@ -30,8 +30,10 @@ title: Projects
     - monksconstitution.org
 - [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
 - Monastic Constitution
-- perso wiki https://github.com/marketplace/actions/wiki-page-creator-action
-- https://github.com/just-the-docs/just-the-docs/tree/main
+- perso wiki
+  - [github action](https://github.com/marketplace/actions/wiki-page-creator-action)
+  - [Just the Docs](https://github.com/just-the-docs/just-the-docs/tree/main)
+  - [Maxime way](https://digital-garden-jekyll-template.netlify.app/)
 
 ### Secondary
 - [Feuilles Jaunes](http://www.ajahnjayasaro.fr) : French Website for Ajahn Jayasaro
