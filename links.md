@@ -80,6 +80,7 @@ This site is build on GitHub
 - [MdBook](https://rust-lang.github.io/mdBook/index.html) : create a book doc online
 - [GRAVE](https://learn.getgrav.org/17) : Crazy cms
 - [kyle](https://github.com/kylelobo/The-Documentation-Compendium)
+- [http://dev.leakyabstractions.com/pretty-docs/](http://dev.leakyabstractions.com/pretty-docs/)
 
 ### Others
 
