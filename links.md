@@ -74,8 +74,12 @@ This site is build on GitHub
 - [Masonry Layout](https://masonry.desandro.com/) : Very nice website layout using js and css
 - [Photo Editor](https://pixlr.com/) : Online Photo Editor
 - [Jekyll Template](https://chrisbobbe.github.io/jekyll-theme-prologue/)
+
+### Doc
+
 - [MdBook](https://rust-lang.github.io/mdBook/index.html) : create a book doc online
 - [GRAVE](https://learn.getgrav.org/17) : Crazy cms
+- [kyle](https://github.com/kylelobo/The-Documentation-Compendium)
 
 ### Others
 
