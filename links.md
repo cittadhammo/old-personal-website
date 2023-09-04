@@ -104,7 +104,7 @@ This site is build on GitHub
 
 ### Blog
 
-- [Dirty Marmotte](http://dirtymarmotte.net/)http://dirtymarmotte.net/
+- [Dirty Marmotte](http://dirtymarmotte.net/)
 
 ### Font
 
@@ -116,6 +116,6 @@ This site is build on GitHub
   - Funny : [https://fonts.google.com/specimen/UnifrakturMaguntia?query=UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia?query=UnifrakturMaguntia)
   - nothing else on google font, have a look at [https://www.1001fonts.com/old-english-fonts.html](https://www.1001fonts.com/old-english-fonts.html) These are the best !
 - In betwwen : 
-  - [https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC](https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC)https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC
+  - [https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC](https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC)
 
 
