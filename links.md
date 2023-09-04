@@ -102,3 +102,20 @@ This site is build on GitHub
 - [all size](https://www.bannerworld.co.uk/product/a0-satin-poster-printing/)
 - [Fixing in UK](https://www.hfe-signs.co.uk/accessories-fixings.php)
 
+### Blog
+
+- [Dirty Marmotte](http://dirtymarmotte.net/)http://dirtymarmotte.net/
+
+### Font
+
+- SC FONTS:
+  - [https://fonts.google.com/specimen/Vollkorn+SC?query=vollkorn+sc](https://fonts.google.com/specimen/Vollkorn+SC?query=vollkorn+sc)
+  - [https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+sc](https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+sc)
+  - [https://fonts.google.com/specimen/Spectral+SC?query=spectral+sc](https://fonts.google.com/specimen/Spectral+SC?query=spectral+sc)
+- Gothic Fonts: 
+  - Funny : [https://fonts.google.com/specimen/UnifrakturMaguntia?query=UnifrakturMaguntia](https://fonts.google.com/specimen/UnifrakturMaguntia?query=UnifrakturMaguntia)
+  - nothing else on google font, have a look at [https://www.1001fonts.com/old-english-fonts.html](https://www.1001fonts.com/old-english-fonts.html) These are the best !
+- In betwwen : 
+  - [https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC](https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC)https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC
+
+
