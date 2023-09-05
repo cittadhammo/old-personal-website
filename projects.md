@@ -126,6 +126,12 @@ title: Projects
     - [swiss](https://www.amazon.co.uk/Flexible-Friendly-Hotend-Creality-Printers/dp/B0789V2D7C/ref=d_pd_sbs_sccl_3_13/260-6408791-6868644?pd_rd_w=o1i7p&content-id=amzn1.sym.b3680bff-f077-48e1-82e2-187909445cc9&pf_rd_p=b3680bff-f077-48e1-82e2-187909445cc9&pf_rd_r=0KTF7TTAQ8N7MSWWWVMC&pd_rd_wg=c9FM8&pd_rd_r=caa9b44e-8643-4b59-b9a0-0b5d9def0d2f&pd_rd_i=B0789V2D7C&psc=1)
     - [another one](https://e3d-online.com/products/v6-all-metal-hotend?variant=40923457880123)
     - [reddit discussion](https://www.reddit.com/r/CR10/comments/k6mf6w/allmetal_hotend_for_cr10_v3/)
+     
+## Vinaya 
+
+- [https://www.dhammatalks.org/vinaya/bhikkhu-pati.html#intro](https://www.dhammatalks.org/vinaya/bhikkhu-pati.html#intro)
+- 
+    
 
 ## AI Generated Art
 
