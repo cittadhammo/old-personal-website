@@ -130,7 +130,7 @@ title: Projects
 ## Vinaya 
 
 - [https://www.dhammatalks.org/vinaya/bhikkhu-pati.html#intro](https://www.dhammatalks.org/vinaya/bhikkhu-pati.html#intro)
-- 
+- [https://suttacentral.net/vinaya-guide-brahmali?lang=en#item4](https://suttacentral.net/vinaya-guide-brahmali?lang=en#item4)
     
 
 ## AI Generated Art
