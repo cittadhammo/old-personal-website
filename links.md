@@ -118,4 +118,8 @@ This site is build on GitHub
 - In betwwen : 
   - [https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC](https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC)
 
+foot
+
+- https://anyasreviews.com/why-birkenstocks-arent-long-term-solution-foot-pain/?ssp_iabi=1683746986428
+
 
