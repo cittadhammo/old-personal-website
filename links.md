@@ -105,6 +105,7 @@ This site is build on GitHub
 ### Blog
 
 - [Dirty Marmotte](http://dirtymarmotte.net/)
+- [Similies Buddha](https://buddhistuniversity.net/content/monographs/similes-of-the-buddha_hecker)
 
 ### Font
 
