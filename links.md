@@ -81,6 +81,7 @@ This site is build on GitHub
 - [GRAVE](https://learn.getgrav.org/17) : Crazy cms
 - [kyle](https://github.com/kylelobo/The-Documentation-Compendium)
 - [http://dev.leakyabstractions.com/pretty-docs/](http://dev.leakyabstractions.com/pretty-docs/)
+- [maximevaillancourt way](https://github.com/maximevaillancourt/digital-garden-jekyll-template?ref=jekyll-themes.com)
 
 ### Others
 
